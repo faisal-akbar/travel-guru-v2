@@ -15,7 +15,7 @@ Travel website with hotel booking
 ## Technology
 
 - React JS
-- Firebase Authentication (Google, Facebook, Github, Custom)
+- Firebase Authentication (Google, Facebook, Github, Email/ Password)
 - React Router, Private Router
 - React Hook Form
 - React Context API
