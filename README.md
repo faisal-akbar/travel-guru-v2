@@ -1,5 +1,27 @@
-## Travel Guru
+# Travel Guru
 
-Simple Firebase Authentication and Private Router React Web Application.
+Travel website with hotel booking
 
-[App Demo](https://travel-guru-748bc.web.app/)
+[Live Website](https://travel-guru-748bc.web.app/){:target="\_blank"}
+
+## Feature
+
+- With click on booking user will get more information about the place with date picker for staying.
+- If user clicked on Start Booking button, the page redirects to login if user is not logged in.
+- Logged in user will have all the available hotel information based on place they selected prior with google map view
+- User can sign in through gmail, facebook, github, or email and password if registered.
+- User also register from the login page, user will get verification email when they register through the application.
+
+## Technology
+
+- React JS
+- Firebase Authentication (Google, Facebook, Github, Custom)
+- React Router, Private Router
+- React Hook Form
+- React Context API
+- React Hook
+- Google Map React
+- Google Map API
+- Firebase Hosting
+- Bootstrap
+- FontAwesome
