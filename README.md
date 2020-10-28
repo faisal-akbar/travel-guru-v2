@@ -2,9 +2,7 @@
 
 Travel website with hotel booking
 
-<!-- [Live Website](https://travel-guru-748bc.web.app/) -->
-
-<a href="https://travel-guru-748bc.web.app/" target="_blank">Live Website</a>
+[Live Website](https://travel-guru-748bc.web.app/)
 
 ## Feature
 
