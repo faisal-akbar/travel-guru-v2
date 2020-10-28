@@ -1,6 +1,6 @@
 # Travel Guru
 
-Travel website with hotel booking
+A responsive Travel website with hotel booking
 
 [Live Website](https://travel-guru-748bc.web.app/)
 
@@ -24,4 +24,5 @@ Travel website with hotel booking
 - Google Map API
 - Firebase Hosting
 - Bootstrap
+- CSS3
 - FontAwesome
